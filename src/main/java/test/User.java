@@ -17,7 +17,13 @@ public class User {
 
     private String password;
 
-
+/**
+* @Description TODO
+* @Author liuh@huayei.com
+* @Date 2020/7/3 17:23
+* @Since 1.0
+*
+*/
 
 
     public String getPassword() {
